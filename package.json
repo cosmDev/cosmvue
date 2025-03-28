@@ -1,0 +1,25 @@
+{
+  "name": "@cosmdev/cosmvue",
+  "version": "0.0.1",
+  "description": "cosmvue",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cosmDev/cosmvue.git"
+  },
+  "author": "cosmDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cosmDev/cosmvue/issues"
+  },
+  "homepage": "https://github.com/cosmDev/cosmvue#readme",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "inquirer": "^12.5.0"
+  }
+}
