@@ -15,23 +15,8 @@ Cosmvue is a project designed to simplify and enhance the development of modern 
 To get started, clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/cosmdev/cosmvue.git
-cd cosmvue
-npm install
-```
-
-## Usage
-
-Run the development server:
-
-```bash
-npm run dev
-```
-
-Build for production:
-
-```bash
-npm run build
+npx cosmvue@latest
+npm exec cosmvue@latest
 ```
 
 ## Contributing
