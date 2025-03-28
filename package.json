@@ -1,8 +1,8 @@
 {
-  "name": "@cosmdev/cosmvue",
-  "version": "0.0.1",
+  "name": "cosmvue",
+  "version": "0.0.2",
   "description": "cosmvue",
-  "main": "index.js",
+  "main": "./src/index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
