@@ -29,8 +29,7 @@ async function main() {
   
   try {
     execSync(templates[template], { stdio: "inherit" });
-    console.log(chalk.green("Installation successful!"));
-    execSync("cp App.vue cosmvue-template/src/", { stdio: "inherit" });
+    console.log(chalk.green("Installation successful!")); 
   } catch (error) {
     console.error(chalk.red("Error installing template:"), error);
   }
